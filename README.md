@@ -1,28 +1,20 @@
-# this is a large heading
-## this is a smaller heading
+# SATNA
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shape, and gives to airy nothing,
-A local *habitation* and a **name**
+## GEOGRAPHY
 
-- This is 
-- an ordered
-- list
+I live in the city Satna , a state in India Madhya Pradesh
 
-1. This is
-2. an ordered
-3. list
+### reading
 
-here is `some code` in the middle of a sentence
+Three of my favourite books are:
+- *WAKE UP LIFE IS CALLING* by preeti shenoy
+- *NORWEGIAN WOOD* by murakami
+- *ALCHEMIST* by paulo coelho
 
-```
-this is 
-a block 
-of code
-```
-Here is how you make [a link] (https://www.wikipedia.org./).
+### food
+- *DOSA* south indian
+- *gol guppe*north indian
+- *pasta* italian
 
-![this is a image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+### blog
+- ** PROFOUND-PAL** in webnode

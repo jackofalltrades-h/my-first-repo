@@ -1,6 +1,6 @@
 all: README.md
 README.md:guessinggame.sh
-	echo "## 1.peer graded assignment" > README.md
+	echo "## 1.Unix assignment" > README.md
 	echo " \n **2.date and time when make was run is**" >> README.md;date >> README.md
 	echo " \n 3.number of lines in guessinggame.sh " >> README.md; wc -l guessinggame.sh >> README.md
 clean: 

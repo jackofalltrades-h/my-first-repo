@@ -1,20 +1,5 @@
-# SATNA
-
-## GEOGRAPHY
-
-I live in the city Satna , a state in India Madhya Pradesh
-
-### reading
-
-Three of my favourite books are:
-- *WAKE UP LIFE IS CALLING* by preeti shenoy
-- *NORWEGIAN WOOD* by murakami
-- *ALCHEMIST* by paulo coelho
-
-### food
-- *DOSA* south indian
-- *gol guppe*north indian
-- *pasta* italian
-
-### blog
-- ** PROFOUND-PAL** in webnode
+## 1.peer graded assignment
+**2.date and time when make was run is**
+Saturday 29 August 2020 03:32:09 PM IST
+3.number of lines in guessinggame.sh
+30 guessinggame.sh
